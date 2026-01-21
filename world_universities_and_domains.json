@@ -69648,7 +69648,7 @@
     "name": "Kirklareli University",
     "alpha_two_code": "TR",
     "state-province": null,
-    "domains": ["kirklareli.edu.tr"],
+    "domains": ["kirklareli.edu.tr", "ogr.klu.edu.tr"],
     "country": "Turkiye"
   },
   {
