@@ -69684,6 +69684,14 @@
     "country": "Turkiye"
   },
   {
+    "web_pages": ["https://www.atu.edu.tr/"],
+    "name": "Adana Alparslan Turkes University",
+    "alpha_two_code": "TR",
+    "state-province": "Adana",
+    "domains": ["atu.edu.tr"],
+    "country": "Turkiye"
+  },
+  {
     "web_pages": ["http://www.nevsehir.edu.tr/"],
     "name": "Nevsehir Haci Bektas Veli University",
     "alpha_two_code": "TR",
