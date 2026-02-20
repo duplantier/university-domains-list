@@ -65311,7 +65311,7 @@
     "web_pages": ["http://www.gop.edu.tr/"],
     "name": "Gaziosmanpasa University",
     "alpha_two_code": "TR",
-    "state-province": null,
+    "state-province": "Tokat",
     "domains": ["gop.edu.tr"],
     "country": "Turkiye"
   },
@@ -65588,6 +65588,14 @@
     "country": "Turkiye"
   },
   {
+    "web_pages": ["http://www.samsun.edu.tr/"],
+    "name": "Samsun University",
+    "alpha_two_code": "TR",
+    "state-province": "Samsun",
+    "domains": ["samsun.edu.tr"],
+    "country": "Turkiye"
+  },
+  {
     "web_pages": ["http://www.odu.edu.tr"],
     "name": "Ordu University",
     "alpha_two_code": "TR",
@@ -65627,6 +65635,15 @@
     "domains": ["sau.edu.tr", "sakarya.edu.tr"],
     "country": "Turkiye"
   },
+  {
+    "web_pages": ["https://www.subu.edu.tr/"],
+    "name": "Sakarya Uygulamali Bilimler University",
+    "alpha_two_code": "TR",
+    "state-province": "Sakarya",
+    "domains": ["subu.edu.tr"],
+    "country": "Turkiye"
+  },
+ 
   {
     "web_pages": ["http://www.sdu.edu.tr/"],
     "name": "Suleyman Demirel University",
@@ -65735,7 +65752,7 @@
     "web_pages": ["http://www.yyu.edu.tr/"],
     "name": "Yüzüncü Yil (Centennial) University",
     "alpha_two_code": "TR",
-    "state-province": null,
+    "state-province": "Van",
     "domains": ["yyu.edu.tr"],
     "country": "Turkiye"
   },
